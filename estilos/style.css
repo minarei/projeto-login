@@ -37,7 +37,7 @@ section#login {
 section#login > div#imagem {
     display: block;
     background-color: rgb(187, 0, 0);
-    background-image: url(../imagens/pexels-enginakyurt-1493226.jpg);
+    background-image: url(../projeto-login/imagens/pexels-enginakyurt-1493226.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left bottom;
